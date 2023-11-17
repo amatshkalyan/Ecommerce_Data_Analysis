@@ -48,3 +48,8 @@ Seasonal variations, marketing campaigns, or changes in business policies could 
 * **Further Investigation:**
 If the decline is significant, you might want to investigate the specific months or periods where the decline is most pronounced.
 Look for correlations with any changes in business strategies, customer engagement initiatives, or external events.
+
+## Question 4
+
+4.	Management would like to compare month-over-month growth of purchase events vs month-over-month growth of the number of orders shipped. They would like to understand how aligned or not these 2 trends are for the period of January 2022 to September 2023. 
+
