@@ -55,6 +55,11 @@ Look for correlations with any changes in business strategies, customer engageme
 
 [Detailed SQL query]( https://github.com/amatshkalyan/Ecommerce_Data_Analysis/blob/main/question_4.sql)
 
+[Published Results visualization](https://lookerstudio.google.com/reporting/89ded0b3-6db0-4a15-88cc-6b95b8d7b627)
+
+<img width="1105" alt="image" src="https://github.com/amatshkalyan/Ecommerce_Data_Analysis/assets/149266119/43acd498-d9f2-4158-8215-29151832ab6e">
+
+
 
 
 
