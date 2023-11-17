@@ -18,7 +18,7 @@ The data source you can find [here](https://console.cloud.google.com/marketplace
 
 ## Question 3
 
-3.	How would you analyze the trend of cancel events from January 2022 to September 2023? Is it positive, negative, neutral? Please include how you would present your findings. You can use Google Sheets or Looker Studio but you don’t have to. You can also just explain what visualization you would use and why.
+3.	How would you analyze the trend of cancel events from January 2022 to September 2023? Is it positive, negative, or neutral? Please include how you would present your findings. You can use Google Sheets or Looker Studio but you don’t have to. You can also just explain what visualization you would use and why.
 
 [Detailed SQL query](https://github.com/amatshkalyan/Ecommerce_Data_Analysis/blob/main/question_3.sql)
 
@@ -27,27 +27,24 @@ The data source you can find [here](https://console.cloud.google.com/marketplace
 <img width="1075" alt="image" src="https://github.com/amatshkalyan/Ecommerce_Data_Analysis/assets/149266119/3e62716c-344a-44e6-8543-4db999ce03af">
 
 ### Analysis:
+
 * **Overview:**
-
-The line chart provides a visual representation of the monthly cancel events over time.
+I used Looker Studio to make a simple visualization for further analysis. 
+The line chart provides a visual representation of the monthly canceled events over time.
 The inclusion of a trendline helps to identify the overall pattern and direction of the trend.
-Trendline Observation:
 
+* **Trendline Observation:**
 A declining trendline suggests that there is a slight decrease in the number of cancel events over the chosen period.
 This means that, on average, the monthly cancel events are showing a tendency to decrease.
-Implications:
 
+* **Implications:**
 The declining trend may indicate potential positive changes, such as improvements in customer satisfaction, better service quality, or changes in user behavior.
 It could also be a result of operational improvements, optimization of processes, or successful retention strategies.
-Considerations:
 
+* **Considerations:**
 While a declining trend may generally be positive, it's important to consider external factors or events that might influence the trend.
 Seasonal variations, marketing campaigns, or changes in business policies could contribute to fluctuations.
-Further Investigation:
 
+* **Further Investigation:**
 If the decline is significant, you might want to investigate the specific months or periods where the decline is most pronounced.
 Look for correlations with any changes in business strategies, customer engagement initiatives, or external events.
-Forecasting:
-
-Consider using the historical trend to make informed forecasts or predictions for future months.
-Be cautious about making assumptions; always validate your findings against additional data and qualitative insights.
