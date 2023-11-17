@@ -7,6 +7,6 @@ The data source you can find [here](https://console.cloud.google.com/marketplace
 
 1.	Calculate the number of events per event type per month
 
-   SQL answer
+   [Detailed SQL answer](https://github.com/amatshkalyan/Ecommerce_Data_Analysis/blob/main/question_1.sql)
 
 
