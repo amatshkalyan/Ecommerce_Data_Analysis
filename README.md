@@ -51,5 +51,10 @@ Look for correlations with any changes in business strategies, customer engageme
 
 ## Question 4
 
-4.	Management would like to compare month-over-month growth of purchase events vs month-over-month growth of the number of orders shipped. They would like to understand how aligned or not these 2 trends are for the period of January 2022 to September 2023. 
+4.	Management would like to compare month-over-month growth of purchase events vs month-over-month growth of the number of orders shipped. They would like to understand how aligned or not these 2 trends are for the period of January 2022 to September 2023.
+
+[Published Results visualization]( https://github.com/amatshkalyan/Ecommerce_Data_Analysis/blob/main/question_4.sql)
+
+
+  
 
