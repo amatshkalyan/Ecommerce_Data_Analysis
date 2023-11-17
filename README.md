@@ -59,6 +59,16 @@ Look for correlations with any changes in business strategies, customer engageme
 
 <img width="1105" alt="image" src="https://github.com/amatshkalyan/Ecommerce_Data_Analysis/assets/149266119/43acd498-d9f2-4158-8215-29151832ab6e">
 
+### Analysis:
+**Correlation Between Purchase and Shipped Order Growth:**
+
+* **Observation:**
+There are several months where both metrics show positive growth. A positive correlation may suggest a strong relationship between increased purchases and shipped orders.
+Conversely, observe months with negative growth in both metrics to identify potential challenges affecting both areas.
+Implications:
+A positive correlation could indicate a well-functioning end-to-end process, from purchase to fulfillment.
+A negative correlation might reveal challenges that impact both customer purchasing decisions and the fulfillment process simultaneously.
+
 
 
 
